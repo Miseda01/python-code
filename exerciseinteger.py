@@ -182,7 +182,7 @@ print("Area of the circle is:",area)
 temperature_celsius=37
 temperature_fahrenheit=(temperature_celsius*9/5)+32
 print(temperature_fahrenheit)
-
+""
 price=49.99
 discounted_price=price*0.8
 print(discounted_price)
